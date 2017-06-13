@@ -1,0 +1,29 @@
+a {
+  text-decoration: none;
+}
+#selection {
+  background: darkorange;
+  color: white;
+}
+h1 {
+  font-size: 35px;
+}
+h5 {
+  color: black;
+}
+#suggestions {
+  background: darkorange;
+  color: white;
+}
+
+.description {
+  border-top: 2px dotted black;
+  border-bottom: 2px dotted black;
+}
+#details {
+  border-bottom: 3px solid pink;
+}
+
+#size {
+  border-bottom: 1px solid pink;
+}
