@@ -11,5 +11,6 @@ $("button").click(function() {
 });
 $("#details").click(function() {
     $("#saying").hide();
+    $("#fit").hide();
 });
     
